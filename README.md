@@ -1,7 +1,5 @@
 # Backend Design
 
-
-
 ## Overview
 This repository contains an example of a simple backend web application using JavaScript and Node.js.
 

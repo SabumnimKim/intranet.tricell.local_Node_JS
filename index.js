@@ -1,5 +1,3 @@
-#Test 
-
 /* ----------------------------- 3:rd party-moduler ------------------------------ */
 const config = require('./config/globals.json');
 const express = require('express');
